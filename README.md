@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thunderpancake
 - 👀 I’m interested in ... fullstack development
-- 🌱 I’m currently learning ... python and javascript
+- 🌱 I’m currently learning ... C#, python, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
